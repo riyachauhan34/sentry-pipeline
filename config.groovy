@@ -6,7 +6,7 @@ return [
 
     ENVIRONMENT : "prod",
 
-    CODE_BASE_PATH : "/home/riya/ansible-project/ansible-assignment5",
+    CODE_BASE_PATH : "/var/lib/jenkins/ansible-assignment5",
 
     ACTION_MESSAGE : "Sentry Deployment Successful",
 
